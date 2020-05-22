@@ -1,0 +1,15 @@
+C:\Users\Cassius\Desktop\GitHubRepo\FluentAPI\obj\Debug\FluentAPI.csprojAssemblyReference.cache
+C:\Users\Cassius\Desktop\GitHubRepo\FluentAPI\obj\Debug\FluentAPI.csproj.CoreCompileInputs.cache
+C:\Users\Cassius\Desktop\GitHubRepo\FluentAPI\bin\Debug\FluentAPI.exe.config
+C:\Users\Cassius\Desktop\GitHubRepo\FluentAPI\bin\Debug\FluentAPI.exe
+C:\Users\Cassius\Desktop\GitHubRepo\FluentAPI\bin\Debug\FluentAPI.pdb
+C:\Users\Cassius\Desktop\GitHubRepo\FluentAPI\bin\Debug\EntityFramework.dll
+C:\Users\Cassius\Desktop\GitHubRepo\FluentAPI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cassius\Desktop\GitHubRepo\FluentAPI\bin\Debug\EntityFramework.xml
+C:\Users\Cassius\Desktop\GitHubRepo\FluentAPI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cassius\Desktop\GitHubRepo\FluentAPI\obj\Debug\FluentAPI.csproj.CopyComplete
+C:\Users\Cassius\Desktop\GitHubRepo\FluentAPI\obj\Debug\FluentAPI.exe
+C:\Users\Cassius\Desktop\GitHubRepo\FluentAPI\obj\Debug\FluentAPI.pdb
+C:\Users\Cassius\Desktop\GitHubRepo\FluentAPI\obj\Debug\FluentAPI.Migrations.InitialModel.resources
+C:\Users\Cassius\Desktop\GitHubRepo\FluentAPI\obj\Debug\FluentAPI.csproj.GenerateResource.cache
+C:\Users\Cassius\Desktop\GitHubRepo\FluentAPI\obj\Debug\FluentAPI.Migrations.AddingTagToMovie.resources
